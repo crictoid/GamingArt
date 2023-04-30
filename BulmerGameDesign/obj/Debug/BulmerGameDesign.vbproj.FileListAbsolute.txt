@@ -1,0 +1,12 @@
+C:\Users\mdbul\source\repos\BulmerGameDesign\bin\Debug\BulmerGameDesign.exe.config
+C:\Users\mdbul\source\repos\BulmerGameDesign\bin\Debug\BulmerGameDesign.exe
+C:\Users\mdbul\source\repos\BulmerGameDesign\bin\Debug\BulmerGameDesign.pdb
+C:\Users\mdbul\source\repos\BulmerGameDesign\bin\Debug\BulmerGameDesign.xml
+C:\Users\mdbul\source\repos\BulmerGameDesign\obj\Debug\BulmerGameDesign.vbproj.AssemblyReference.cache
+C:\Users\mdbul\source\repos\BulmerGameDesign\obj\Debug\BulmerGameDesign.frmArt.resources
+C:\Users\mdbul\source\repos\BulmerGameDesign\obj\Debug\BulmerGameDesign.Resources.resources
+C:\Users\mdbul\source\repos\BulmerGameDesign\obj\Debug\BulmerGameDesign.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\BulmerGameDesign\obj\Debug\BulmerGameDesign.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\BulmerGameDesign\obj\Debug\BulmerGameDesign.exe
+C:\Users\mdbul\source\repos\BulmerGameDesign\obj\Debug\BulmerGameDesign.xml
+C:\Users\mdbul\source\repos\BulmerGameDesign\obj\Debug\BulmerGameDesign.pdb
